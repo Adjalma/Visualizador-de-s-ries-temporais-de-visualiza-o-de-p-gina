@@ -1,2 +1,2 @@
-# Visualizador-de-s-ries-temporais-de-visualiza-o-de-p-gina
+# Visualizador-de-series-temporais-de-visualizao-de-pagina
 Projetos para Certificação de Analise de Dados com Python
